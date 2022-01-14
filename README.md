@@ -24,40 +24,32 @@
 
 ### Homepage Designs
 #### Homepage desktop design
-![Homepage Desktop UI design](/screenshots/homepage_desktop.png)
+![Homepage Desktop UI design](/images/homepage_desktop.png)
 #### Homepage tablet design
-![Homepage Tablet UI design](/screenshots/homepage_tablet.png)
+![Homepage Tablet UI design](/images/homepage_tablet.png)
 #### Homepage mobile design
-![Homepage Mobile UI design](/screenshots/homepage_mobile.png)
+![Homepage Mobile UI design](/images/homepage_mobile.png)
 
 ### Courses Designs
 #### Courses desktop design
-![Courses Desktop UI design](/screenshots/courses_desktop.png)
+![Courses Desktop UI design](/images/courses_desktop.png)
 #### Courses tablet design
-![Courses Tablet UI design](/screenshots/courses_tablet.png)
+![Courses Tablet UI design](/images/courses_tablet.png)
 #### Courses mobile design
-![Courses Mobile UI design](/screenshots/courses_mobile.png)
+![Courses Mobile UI design](/images/courses_mobile.png)
 
 ### Pricing Designs
 #### Pricing desktop design
-![Pricing Desktop UI design](/screenshots/pricing_desktop.png)
+![Pricing Desktop UI design](/images/pricing_desktop.png)
 #### Pricing tablet design
-![Pricing Tablet UI design](/screenshots/pricing_tablet.png)
+![Pricing Tablet UI design](/images/pricing_tablet.png)
 #### Pricing mobile design
-![Pricing Mobile UI design](/screenshots/pricing_mobile.png)
+![Pricing Mobile UI design](/images/pricing_mobile.png)
 
 ## AUTHOR
-Mariem Matri : [LinkedIn] | [GitHub] | [Twitter]
+Jordan Buitrago : [LinkedIn] | [GitHub] | [Twitter]
 
-[LinkedIn]: <https://www.linkedin.com/in/mariem-matri-249620178>
-[GitHub]: <https://github.com/MatriMariem>
-[Twitter]: <https://twitter.com/MatriMariem>
+[LinkedIn]: <https://www.linkedin.com/in/jordanbuitrago>
+[GitHub]: <https://github.com/jordanbsandoval>
+[Twitter]: <https://twitter.com/jordansandoval6>
 
-## AUTHOR DESCRIPTION
- - I'm a Food Process Engineer and a software engineering student at Holberton School.
-  - I have been studying low-level programming, high-level
- programming, system engineering and devops, and web
- stack programming (Front-end & Back-end) using a
- methodology based on peer-learning and projects.
-  - I'm curious, adaptable, a fast learner and I love developing
- my skills.
