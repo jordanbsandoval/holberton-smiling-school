@@ -9,13 +9,13 @@
 * We have to use Bootstrap.
 * Our styles.css must be as small as you can - we must use as much as we can Bootstrap classes.
 * The web pages have to be responsive.
-* Will have import fonts from Google, JQuery and Bootstrap CSS/JS.
+* For this project, have import fonts from Google, JQuery and Bootstrap CSS/JS.
 
 ## Best practices to follow for this project
 * Use Bootstrap as much as possible.
 * Use personalized CSS as little as possible.
 
-## Design informations
+## Interactions note:
 * Web pages must switch to the tablet version when the screen width is 768px
 * Web pages must switch to the mobile version when the screen width is 576px
 * button hover/active: opacity: 0.9
